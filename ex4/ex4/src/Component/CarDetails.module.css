@@ -1,6 +1,6 @@
-carro{
-    margin: 5000;
+.carro{
+    margin: 10px;
     font: arial;
-    padding: 0px; 
+    padding: 05px; 
     color:red;
   }
